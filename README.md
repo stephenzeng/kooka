@@ -22,7 +22,7 @@ This project generates AI-created summaries based on publicly available Microsof
 
 The content published by Kooka is provided for informational purposes only and may contain inaccuracies, omissions, or misinterpretations introduced during the AI summarization process. Users should always refer to the original Microsoft Learn documentation as the authoritative source of truth.
 
-Kooka does not claim ownership of any Microsoft Learn content. Microsoft Learn articles, documentation, trademarks, product names, and related intellectual property remain the property of Microsoft Corporation and their respective owners.
+Kooka does not claim ownership of any Microsoft Learn content. Microsoft Learn articles, documentation, trademarks, product names, and related intellectual property remain the property of Microsoft Corporation.
 
 This repository is not affiliated with, endorsed by, or officially supported by Microsoft. Any views, opinions, summaries, or interpretations presented by Kooka are those of the project and should not be considered official Microsoft guidance.
 
